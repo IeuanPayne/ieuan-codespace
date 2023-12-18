@@ -1,4 +1,4 @@
 {
     "workspaceFolder": "azdo",
-    "postCreateCommand": "git clone <url> azdo"
+    "postCreateCommand": "git clone https://Ukipo@dev.azure.com/Ukipo/One-IPO-Transformation/_git/frontend-mono-poc azdo"
 }
